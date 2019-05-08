@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">" MultiFragment Assignment"</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="List_Name">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>HoneyComb</item>
+        <item>IceCream</item>
+        <item>JellyBean</item>
+        <item>Kitkat</item>
+        <item>Lollipop</item>
+        <item>Marshmellow</item>
+        <item>Naughat</item>
+        <item>Oreo</item>
+        <item>Pi</item>
+
+
+
+
+
+    </string-array>
+</resources>
